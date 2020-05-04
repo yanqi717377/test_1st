@@ -1,2 +1,2 @@
-# test_1st
-html, css and javascript related practice
+name: yanqi
+project title: test_1st
